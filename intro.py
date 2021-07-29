@@ -7,18 +7,6 @@ app = Flask(__name__)
 app.secret_key = "hello"
 app.permanent_session_lifetime = timedelta(minutes=1)
 
- #
- # def square():
- #
- #     return 2 * 2
-
-# def slownik_a():
-#     con = sqlite3.connect('test2.db')
-#     cur = con.cursor()
-#     word = (cur.execute('SELECT * from slow1'))
-#     return print(word.fetchall())
-
-
 @app.route("/")
 def home():
     return render_template("index.html")
