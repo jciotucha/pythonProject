@@ -21,13 +21,13 @@ sftp = paramiko.SFTPClient.from_transport(transport)
 
 
 # Upload
-# filepath = "/Diuna3.txt"
+filepath = "/[A-z].txt"
 # localpath = "Diuna2.txt"
 # sftp.put(localpath, filepath)
 
 # Delete
-remoteArtifactPath = "./*"
-sftp.remove(remoteArtifactPath)
+
+sftp.remove(filepath)
 
 
 # os.remove("Diuna2.txt")
