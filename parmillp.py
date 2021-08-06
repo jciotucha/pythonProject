@@ -1,4 +1,5 @@
 import paramiko
+import os
 
 paramiko.util.log_to_file("paramiko.log")
 
@@ -14,14 +15,23 @@ transport.connect(None, username, password)
 sftp = paramiko.SFTPClient.from_transport(transport)
 
 # Download
-filepath = "/Diuna.txt"
-localpath = "Diuna2.txt"
-sftp.get(filepath, localpath)
+# filepath = "/tt.pdf"
+# localpath = "tt.pdf"
+# sftp.get(filepath, localpath)
+
 
 # Upload
-# filepath = "/"
-# localpath = "e:/device.xml"
+# filepath = "/Diuna3.txt"
+# localpath = "Diuna2.txt"
 # sftp.put(localpath, filepath)
+
+# Delete
+remoteArtifactPath = "./*"
+sftp.remove(remoteArtifactPath)
+
+
+# os.remove("Diuna2.txt")
+
 
 # Close
 if sftp: sftp.close()
