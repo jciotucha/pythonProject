@@ -1,10 +1,19 @@
 import paramiko
+from paramiko import transport
 
 paramiko.util.log_to_file("paramiko.log")
 
 
+# Open a transport
+host, port = "85.14.106.186", 2222
+transport = paramiko.Transport((host, port))
+
+# Auth
+username, password = "pppppp", "pppppp"
+transport.connect(None, username, password)
 
 # Go!
+
 sftp = paramiko.SFTPClient.from_transport(transport)
 
 
@@ -18,6 +27,7 @@ def ftp_upl(localpath, filepath):
 
 def del_ftp(filepath):
     return sftp.remove(filepath)
+
 
 a = True
 while a:

@@ -1,0 +1,597 @@
+hello
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== whoiam ==================================================
+
+bash: whoiam: command not found
+
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== whomi ==================================================
+
+bash: whomi: command not found
+
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== whoami ==================================================
+pppppp
+
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== ps aux ==================================================
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 168856 12396 ?        Ss   Aug06   0:12 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    Aug06   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Aug06   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Aug06   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   Aug06   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    Aug06   0:01 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    Aug06   7:27 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    Aug06   0:05 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    Aug06   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    Aug06   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    Aug06   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    Aug06   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    Aug06   0:05 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    Aug06   0:23 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    Aug06   0:00 [kdevtmpfs]
+root          22  0.0  0.0      0     0 ?        I<   Aug06   0:00 [netns]
+root          23  0.0  0.0      0     0 ?        S    Aug06   0:00 [rcu_tasks_kthre]
+root          24  0.0  0.0      0     0 ?        S    Aug06   0:00 [kauditd]
+root          25  0.0  0.0      0     0 ?        S    Aug06   0:00 [khungtaskd]
+root          26  0.0  0.0      0     0 ?        S    Aug06   0:00 [oom_reaper]
+root          27  0.0  0.0      0     0 ?        I<   Aug06   0:00 [writeback]
+root          28  0.0  0.0      0     0 ?        S    Aug06   0:00 [kcompactd0]
+root          29  0.0  0.0      0     0 ?        SN   Aug06   0:00 [ksmd]
+root          30  0.0  0.0      0     0 ?        SN   Aug06   0:03 [khugepaged]
+root          77  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kintegrityd]
+root          78  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kblockd]
+root          79  0.0  0.0      0     0 ?        I<   Aug06   0:00 [blkcg_punt_bio]
+root          80  0.0  0.0      0     0 ?        I<   Aug06   0:00 [tpm_dev_wq]
+root          81  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ata_sff]
+root          82  0.0  0.0      0     0 ?        I<   Aug06   0:00 [md]
+root          83  0.0  0.0      0     0 ?        I<   Aug06   0:00 [edac-poller]
+root          84  0.0  0.0      0     0 ?        I<   Aug06   0:00 [devfreq_wq]
+root          85  0.0  0.0      0     0 ?        S    Aug06   0:00 [watchdogd]
+root          88  0.0  0.0      0     0 ?        S    Aug06   0:01 [kswapd0]
+root          89  0.0  0.0      0     0 ?        S    Aug06   0:00 [ecryptfs-kthrea]
+root          91  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kthrotld]
+root          92  0.0  0.0      0     0 ?        I<   Aug06   0:00 [acpi_thermal_pm]
+root          93  0.0  0.0      0     0 ?        S    Aug06   0:00 [scsi_eh_0]
+root          94  0.0  0.0      0     0 ?        I<   Aug06   0:00 [scsi_tmf_0]
+root          95  0.0  0.0      0     0 ?        S    Aug06   0:00 [scsi_eh_1]
+root          96  0.0  0.0      0     0 ?        I<   Aug06   0:00 [scsi_tmf_1]
+root          98  0.0  0.0      0     0 ?        I<   Aug06   0:00 [vfio-irqfd-clea]
+root          99  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ipv6_addrconf]
+root         110  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kstrp]
+root         113  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/u5:0]
+root         126  0.0  0.0      0     0 ?        I<   Aug06   0:00 [charger_manager]
+root         173  0.0  0.0      0     0 ?        I<   Aug06   0:37 [kworker/1:1H-kblockd]
+root         191  0.0  0.0      0     0 ?        I<   Aug06   0:48 [kworker/0:1H-kblockd]
+root         193  0.0  0.0      0     0 ?        S    Aug06   2:32 [jbd2/vda2-8]
+root         194  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ext4-rsv-conver]
+root         237  0.0  1.3 180736 113940 ?       S<s  Aug06  10:09 /lib/systemd/systemd-journald
+root         257  0.0  0.0   2488   512 ?        S    Aug06   0:00 bpfilter_umh
+root         271  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop0]
+root         279  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop1]
+root         283  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop2]
+root         285  0.0  0.0  23436  6516 ?        Ss   Aug06   0:05 /lib/systemd/systemd-udevd
+root         301  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop3]
+root         306  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop4]
+root         310  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop5]
+root         311  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop6]
+root         320  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop7]
+systemd+     419  0.0  0.1  23900 11792 ?        Ss   Aug06   0:04 /lib/systemd/systemd-resolved
+systemd+     420  0.0  0.0  90252  5676 ?        Ssl  Aug06   0:01 /lib/systemd/systemd-timesyncd
+root         424  0.0  0.0 239168  7876 ?        Ssl  Aug06   2:01 /usr/lib/accountsservice/accounts-daemon
+avahi        426  0.0  0.0   8804  4104 ?        Ss   Aug06   6:33 avahi-daemon: running [pepli.local]
+root         432  0.0  0.0   9692  2812 ?        Ss   Aug06   0:02 /usr/sbin/cron -f
+message+     434  0.0  0.0   8752  5304 ?        Ss   Aug06   0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         435  0.0  0.2 262388 18260 ?        Ssl  Aug06   0:23 /usr/sbin/NetworkManager --no-daemon
+root         439  0.0  0.0  81896  3652 ?        Ssl  Aug06   0:26 /usr/sbin/irqbalance --foreground
+root         442  0.0  0.2  39648 19940 ?        Ss   Aug06   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         447  0.0  0.1 235040  9736 ?        Ssl  Aug06   0:13 /usr/lib/policykit-1/polkitd --no-debug
+syslog       450  0.0  0.0 224348  4792 ?        Ssl  Aug06   2:55 /usr/sbin/rsyslogd -n -iNONE
+root         453  0.0  0.4 860232 37968 ?        Ssl  Aug06   0:52 /usr/lib/snapd/snapd
+root         454  0.0  0.0 235872  5996 ?        Ssl  Aug06   0:00 /usr/libexec/switcheroo-control
+root         457  0.0  0.0  16876  7548 ?        Ss   Aug06   0:01 /lib/systemd/systemd-logind
+root         458  0.0  0.1 392380 11644 ?        Ssl  Aug06   0:00 /usr/lib/udisks2/udisksd
+root         461  0.0  0.0  13680  4496 ?        Ss   Aug06   0:05 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+clamav       468  0.0 14.4 1412976 1174608 ?     Ssl  Aug06   4:44 /usr/sbin/clamd --foreground=true
+avahi        471  0.0  0.0   8344   328 ?        S    Aug06   0:00 avahi-daemon: chroot helper
+root         507  0.0  0.1 313740 10700 ?        Ssl  Aug06   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         559  0.0  0.0      0     0 ?        I<   Aug06   0:00 [cryptd]
+root         584  0.0  0.0      0     0 ?        I<   Aug06   0:00 [nfit]
+clamav       796  0.0  0.1 135536 15004 ?        Ss   Aug06   0:12 /usr/bin/freshclam -d --foreground=true
+nobody       808  0.0  0.0   9772  6244 ?        Ss   Aug06   0:08 /usr/sbin/openvpn --status /run/openvpn-server/status-server.log --status-version 2 --suppress-timestamps --config server.conf
+root         815  0.0  0.0   9828  6168 ?        Ss   Aug06   0:13 /usr/sbin/openvpn --daemon ovpn-server --status /run/openvpn/server.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/server.conf --writepid /run/openvpn/server.pid
+root         838  0.0  0.0  15632  4420 ?        S    Aug06   0:00 /usr/sbin/xrdp-sesman
+root         839  0.0  0.0 239784  7884 ?        Ssl  Aug06   0:00 /usr/sbin/gdm3
+root         849  0.0  0.1 166936  8400 ?        Sl   Aug06   0:00 gdm-session-worker [pam/gdm-launch-environment]
+xrdp         856  0.0  0.0  13364  2224 ?        S    Aug06   2:47 /usr/sbin/xrdp
+root         876  0.0  0.0  88996  3980 ?        Ss   Aug06   0:51 /opt/axigen/bin/axigen --max-respawns 3 -W /var/opt/axigen
+axigen       877  0.0  2.6 1373980 215320 ?      SNl  Aug06  12:43 /opt/axigen/bin/axigen --max-respawns 3 -W /var/opt/axigen
+gdm          886  0.0  0.1  18560  9396 ?        Ss   Aug06   0:00 /lib/systemd/systemd --user
+gdm          887  0.0  0.0 104236  4080 ?        S    Aug06   0:00 (sd-pam)
+gdm          899  0.0  0.1  22860 13776 ?        Ss   Aug06   0:01 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+gdm          900  0.0  0.1 805072 13048 ?        Ssl  Aug06   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gdm          901  0.0  0.0 162000  5164 tty1     Ssl+ Aug06   0:00 /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          903  0.0  0.0   7108  3548 ?        Ss   Aug06   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm          906  0.0  0.0   5292   940 tty1     S+   Aug06   0:00 dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          908  0.0  0.0   7660  4092 tty1     S+   Aug06   0:00 dbus-daemon --nofork --print-address 4 --session
+gdm          909  0.0  0.1 557848 13140 tty1     Sl+  Aug06   0:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+rtkit        911  0.0  0.0 152932  2696 ?        SNsl Aug06   0:12 /usr/libexec/rtkit-daemon
+gdm          939  0.0  2.2 3804224 182408 tty1   Sl+  Aug06   5:44 /usr/bin/gnome-shell
+axigen       953  0.0  0.1 113008  9684 ?        Sl   Aug06   0:19 axigen-tnef
+gdm         1042  0.0  0.0 305340  6608 tty1     Sl+  Aug06   0:00 /usr/libexec/at-spi-bus-launcher
+gdm         1048  0.0  0.0   7108  3624 tty1     S+   Aug06   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm         1087  0.0  0.5 736548 46588 tty1     Sl+  Aug06   0:00 /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/118/.mutter-Xwaylandauth.FZPK70 -listen 4 -listen 5 -displayfd 6 -listen 7
+root        1167  0.0  0.1 252356  9620 ?        Ssl  Aug06   0:00 /usr/lib/upower/upowerd
+gdm         1188  0.0  0.0 162764  6808 tty1     Sl+  Aug06   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         1189  0.0  0.3 2598780 25060 tty1    Sl+  Aug06   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gdm         1192  0.0  0.2 413856 22248 tty1     Sl+  Aug06   0:05 /usr/libexec/gsd-color
+gdm         1194  0.0  0.1 248524 10144 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-print-notifications
+gdm         1197  0.0  0.0 309972  6384 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-a11y-settings
+gdm         1201  0.0  0.2 339640 21840 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-power
+gdm         1206  0.0  0.2 894344 22600 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-media-keys
+gdm         1207  0.0  0.0 457400  5924 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-rfkill
+gdm         1208  0.0  0.2 338712 21368 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-keyboard
+gdm         1211  0.0  0.2 338472 20976 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-wacom
+gdm         1212  0.0  0.0 312036  7348 tty1     Sl+  Aug06   0:13 /usr/libexec/gsd-housekeeping
+gdm         1216  0.0  0.1 319668  8784 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-sound
+gdm         1222  0.0  0.1 373936 15228 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-datetime
+gdm         1228  0.0  0.1 315472  9620 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-smartcard
+gdm         1236  0.0  0.0 235808  5820 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-screensaver-proxy
+gdm         1241  0.0  0.1 464964  9216 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-sharing
+gdm         1266  0.0  0.1 342488 14024 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-printer
+colord      1296  0.0  0.1 246468 13600 ?        Ssl  Aug06   0:00 /usr/libexec/colord
+gdm         1325  0.0  0.0 384900  8148 tty1     Sl   Aug06   0:00 ibus-daemon --panel disable -r --xim
+gdm         1331  0.0  0.0 236824  7024 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-dconf
+gdm         1335  0.0  0.6 904292 52224 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         1339  0.0  0.0 236672  7100 tty1     Sl+  Aug06   0:00 /usr/libexec/ibus-portal
+gdm         1343  0.0  0.0 162996  6880 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-engine-simple
+postgres  164724  0.0  0.3 218604 27180 ?        Ss   Aug14   0:06 /usr/lib/postgresql/12/bin/postgres -D /var/lib/postgresql/12/main -c config_file=/etc/postgresql/12/main/postgresql.conf
+postgres  164726  0.0  0.1 218728  8180 ?        Ss   Aug14   0:00 postgres: 12/main: checkpointer   
+postgres  164727  0.0  0.0 218604  6172 ?        Ss   Aug14   0:07 postgres: 12/main: background writer   
+postgres  164728  0.0  0.1 218604 10308 ?        Ss   Aug14   0:07 postgres: 12/main: walwriter   
+postgres  164729  0.0  0.1 219140  8844 ?        Ss   Aug14   0:03 postgres: 12/main: autovacuum launcher   
+postgres  164730  0.0  0.0  72968  5052 ?        Ss   Aug14   0:03 postgres: 12/main: stats collector   
+postgres  164731  0.0  0.0 219032  6864 ?        Ss   Aug14   0:00 postgres: 12/main: logical replication launcher   
+root      165203  0.0  0.0  12176  6756 ?        Ss   Aug14   0:08 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root      172855  0.0  0.0      0     0 ?        I<   Aug14   0:00 [xfsalloc]
+root      172856  0.0  0.0      0     0 ?        I<   Aug14   0:00 [xfs_mru_cache]
+root      172859  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsIO]
+root      172860  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsCommit]
+root      172861  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsCommit]
+root      172862  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsSync]
+root      348521  0.0  0.1  28856  8312 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root      348523  0.0  0.1 179124 13160 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+xrdp      351167  0.0  0.0  13656  2192 ?        S    06:53   0:03 /usr/sbin/xrdp
+root      351690  0.0  0.0      0     0 ?        I    08:14   0:00 [kworker/u4:2-events_power_efficient]
+root      351866  0.0  0.0      0     0 ?        I    08:39   0:00 [kworker/1:0-events]
+root      351994  0.0  0.1  13992  9000 ?        Ss   08:39   0:00 sshd: eman [priv]
+root      352019  0.0  0.0      0     0 ?        I    08:39   0:00 [kworker/0:1-events]
+eman      352201  0.0  0.1  18564  9736 ?        Ss   08:41   0:00 /lib/systemd/systemd --user
+root      352202  0.0  0.1  13980  9096 ?        Ss   08:41   0:00 sshd: eman [priv]
+eman      352206  0.0  0.0 169980  4580 ?        S    08:41   0:00 (sd-pam)
+eman      352214  0.0  0.1  22860 13656 ?        Ss   08:41   0:00 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+eman      352217  0.0  0.1 280692 13824 ?        Ssl  08:41   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+eman      352232  0.0  0.0  13992  6360 ?        S    08:41   0:00 sshd: eman@pts/0
+eman      352251  0.0  0.0  14112  6180 ?        S    08:41   0:00 sshd: eman@notty
+eman      352254  0.0  0.0   7108  4028 ?        Ss   08:41   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+eman      352255  0.0  0.0   5884  4372 ?        Ss   08:41   0:00 /usr/lib/openssh/sftp-server
+eman      352256  0.0  0.1  16084  8520 pts/0    Ss+  08:41   0:01 -zsh
+eman      352279  0.0  0.0  13900  3980 pts/0    S    08:41   0:00 -zsh
+eman      352286  0.0  0.0  15376  4776 pts/0    S    08:41   0:00 -zsh
+eman      352287  0.0  0.0  15360  3372 pts/0    S    08:41   0:00 -zsh
+eman      352289  0.0  0.0   2844     4 pts/0    Sl   08:41   0:00 /home/eman/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.3.1 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 4
+root      352901  0.0  0.0      0     0 ?        I    08:46   0:00 [kworker/u4:1-events_power_efficient]
+root      352977  0.0  0.0      0     0 ?        I    08:49   0:00 [kworker/1:2-events]
+root      353000  0.0  0.0      0     0 ?        I    08:50   0:00 [kworker/1:3-events]
+root      353067  0.0  0.0      0     0 ?        I    08:51   0:00 [kworker/0:2-events]
+root      353627  0.0  0.0      0     0 ?        I    08:54   0:00 [kworker/u4:3-events_power_efficient]
+root      371395  0.0  0.0      0     0 ?        I    08:59   0:00 [kworker/0:0-events]
+root      371416  0.0  0.0      0     0 ?        I    08:59   0:00 [kworker/1:1-cgroup_destroy]
+root      371450  0.0  0.0      0     0 ?        I    09:00   0:00 [kworker/0:3]
+root      371692  1.0  0.1  13980  9136 ?        Ss   09:02   0:00 sshd: pppppp [priv]
+root      371695  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371696  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371697  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371698  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371699  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371700  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371701  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371702  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371703  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371704  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371705  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371706  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371707  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371708  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371709  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371710  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371711  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+pppppp    371712  0.0  0.1  18436  9880 ?        Ss   09:02   0:00 /lib/systemd/systemd --user
+root      371713  0.0  0.0      0     0 ?        I    09:02   0:00 [kworker/1:4-memcg_kmem_cache]
+root      371714  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+pppppp    371715  0.0  0.0 170124  4624 ?        S    09:02   0:00 (sd-pam)
+root      371716  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+root      371719  0.0  0.0  23436  4948 ?        S    09:02   0:00 /lib/systemd/systemd-udevd
+pppppp    371722  0.0  0.1  22860 13908 ?        Ss   09:02   0:00 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+pppppp    371723  0.0  0.1 280684 14216 ?        Ssl  09:02   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+pppppp    371742  0.0  0.0  14116  6212 ?        S    09:02   0:00 sshd: pppppp@notty
+pppppp    371745  0.0  0.0   7108  4108 ?        Ss   09:02   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+pppppp    371750  0.0  0.0  11772  3272 ?        Rs   09:02   0:00 ps aux
+
+================================================== pwd ==================================================
+/home/pppppp
+
+================================================== id ==================================================
+uid=1001(pppppp) gid=1001(pppppp) groups=1001(pppppp)
+
+================================================== uname -a ==================================================
+Linux pepli 5.4.0-80-generic #90-Ubuntu SMP Fri Jul 9 22:49:44 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+
+================================================== df -h ==================================================
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           797M  1.3M  796M   1% /run
+/dev/vda2        98G   24G   70G  26% /
+tmpfs           3.9G   16K  3.9G   1% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       43M   43M     0 100% /snap/certbot/1280
+/dev/loop1       43M   43M     0 100% /snap/certbot/1343
+/dev/loop3      100M  100M     0 100% /snap/core/11316
+/dev/loop2       17M   17M     0 100% /snap/certbot-dns-google/864
+/dev/loop4       17M   17M     0 100% /snap/certbot-dns-google/927
+/dev/loop5       62M   62M     0 100% /snap/core20/1081
+/dev/loop6      100M  100M     0 100% /snap/core/11420
+/dev/loop7       62M   62M     0 100% /snap/core20/1026
+tmpfs           797M   36K  797M   1% /run/user/118
+tmpfs           797M  4.0K  797M   1% /run/user/1000
+tmpfs           797M  4.0K  797M   1% /run/user/1001
+
+================================================== ps aux ==================================================
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 168856 12396 ?        Ss   Aug06   0:12 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    Aug06   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Aug06   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Aug06   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/0:0H-kblockd]
+root           9  0.0  0.0      0     0 ?        I<   Aug06   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    Aug06   0:01 [ksoftirqd/0]
+root          11  0.0  0.0      0     0 ?        I    Aug06   7:27 [rcu_sched]
+root          12  0.0  0.0      0     0 ?        S    Aug06   0:05 [migration/0]
+root          13  0.0  0.0      0     0 ?        S    Aug06   0:00 [idle_inject/0]
+root          14  0.0  0.0      0     0 ?        S    Aug06   0:00 [cpuhp/0]
+root          15  0.0  0.0      0     0 ?        S    Aug06   0:00 [cpuhp/1]
+root          16  0.0  0.0      0     0 ?        S    Aug06   0:00 [idle_inject/1]
+root          17  0.0  0.0      0     0 ?        S    Aug06   0:05 [migration/1]
+root          18  0.0  0.0      0     0 ?        S    Aug06   0:23 [ksoftirqd/1]
+root          20  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/1:0H-kblockd]
+root          21  0.0  0.0      0     0 ?        S    Aug06   0:00 [kdevtmpfs]
+root          22  0.0  0.0      0     0 ?        I<   Aug06   0:00 [netns]
+root          23  0.0  0.0      0     0 ?        S    Aug06   0:00 [rcu_tasks_kthre]
+root          24  0.0  0.0      0     0 ?        S    Aug06   0:00 [kauditd]
+root          25  0.0  0.0      0     0 ?        S    Aug06   0:00 [khungtaskd]
+root          26  0.0  0.0      0     0 ?        S    Aug06   0:00 [oom_reaper]
+root          27  0.0  0.0      0     0 ?        I<   Aug06   0:00 [writeback]
+root          28  0.0  0.0      0     0 ?        S    Aug06   0:00 [kcompactd0]
+root          29  0.0  0.0      0     0 ?        SN   Aug06   0:00 [ksmd]
+root          30  0.0  0.0      0     0 ?        SN   Aug06   0:03 [khugepaged]
+root          77  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kintegrityd]
+root          78  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kblockd]
+root          79  0.0  0.0      0     0 ?        I<   Aug06   0:00 [blkcg_punt_bio]
+root          80  0.0  0.0      0     0 ?        I<   Aug06   0:00 [tpm_dev_wq]
+root          81  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ata_sff]
+root          82  0.0  0.0      0     0 ?        I<   Aug06   0:00 [md]
+root          83  0.0  0.0      0     0 ?        I<   Aug06   0:00 [edac-poller]
+root          84  0.0  0.0      0     0 ?        I<   Aug06   0:00 [devfreq_wq]
+root          85  0.0  0.0      0     0 ?        S    Aug06   0:00 [watchdogd]
+root          88  0.0  0.0      0     0 ?        S    Aug06   0:01 [kswapd0]
+root          89  0.0  0.0      0     0 ?        S    Aug06   0:00 [ecryptfs-kthrea]
+root          91  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kthrotld]
+root          92  0.0  0.0      0     0 ?        I<   Aug06   0:00 [acpi_thermal_pm]
+root          93  0.0  0.0      0     0 ?        S    Aug06   0:00 [scsi_eh_0]
+root          94  0.0  0.0      0     0 ?        I<   Aug06   0:00 [scsi_tmf_0]
+root          95  0.0  0.0      0     0 ?        S    Aug06   0:00 [scsi_eh_1]
+root          96  0.0  0.0      0     0 ?        I<   Aug06   0:00 [scsi_tmf_1]
+root          98  0.0  0.0      0     0 ?        I<   Aug06   0:00 [vfio-irqfd-clea]
+root          99  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ipv6_addrconf]
+root         110  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kstrp]
+root         113  0.0  0.0      0     0 ?        I<   Aug06   0:00 [kworker/u5:0]
+root         126  0.0  0.0      0     0 ?        I<   Aug06   0:00 [charger_manager]
+root         173  0.0  0.0      0     0 ?        I<   Aug06   0:37 [kworker/1:1H-kblockd]
+root         191  0.0  0.0      0     0 ?        I<   Aug06   0:48 [kworker/0:1H-kblockd]
+root         193  0.0  0.0      0     0 ?        S    Aug06   2:32 [jbd2/vda2-8]
+root         194  0.0  0.0      0     0 ?        I<   Aug06   0:00 [ext4-rsv-conver]
+root         237  0.0  1.4 180736 114216 ?       S<s  Aug06  10:09 /lib/systemd/systemd-journald
+root         257  0.0  0.0   2488   512 ?        S    Aug06   0:00 bpfilter_umh
+root         271  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop0]
+root         279  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop1]
+root         283  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop2]
+root         285  0.0  0.0  23436  6516 ?        Ss   Aug06   0:05 /lib/systemd/systemd-udevd
+root         301  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop3]
+root         306  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop4]
+root         310  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop5]
+root         311  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop6]
+root         320  0.0  0.0      0     0 ?        S<   Aug06   0:00 [loop7]
+systemd+     419  0.0  0.1  23900 11792 ?        Ss   Aug06   0:04 /lib/systemd/systemd-resolved
+systemd+     420  0.0  0.0  90252  5676 ?        Ssl  Aug06   0:01 /lib/systemd/systemd-timesyncd
+root         424  0.0  0.0 239168  7876 ?        Ssl  Aug06   2:01 /usr/lib/accountsservice/accounts-daemon
+avahi        426  0.0  0.0   8804  4104 ?        Ss   Aug06   6:33 avahi-daemon: running [pepli.local]
+root         432  0.0  0.0   9692  2812 ?        Ss   Aug06   0:02 /usr/sbin/cron -f
+message+     434  0.0  0.0   8752  5304 ?        Ss   Aug06   0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         435  0.0  0.2 262388 18260 ?        Ssl  Aug06   0:23 /usr/sbin/NetworkManager --no-daemon
+root         439  0.0  0.0  81896  3652 ?        Ssl  Aug06   0:26 /usr/sbin/irqbalance --foreground
+root         442  0.0  0.2  39648 19944 ?        Ss   Aug06   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         447  0.0  0.1 235040  9736 ?        Ssl  Aug06   0:13 /usr/lib/policykit-1/polkitd --no-debug
+syslog       450  0.0  0.0 224348  4792 ?        Ssl  Aug06   2:55 /usr/sbin/rsyslogd -n -iNONE
+root         453  0.0  0.4 860232 36504 ?        Ssl  Aug06   0:52 /usr/lib/snapd/snapd
+root         454  0.0  0.0 235872  5996 ?        Ssl  Aug06   0:00 /usr/libexec/switcheroo-control
+root         457  0.0  0.0  16876  7548 ?        Ss   Aug06   0:01 /lib/systemd/systemd-logind
+root         458  0.0  0.1 392380 11644 ?        Ssl  Aug06   0:00 /usr/lib/udisks2/udisksd
+root         461  0.0  0.0  13680  4496 ?        Ss   Aug06   0:05 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+clamav       468  0.0 14.4 1412976 1174608 ?     Ssl  Aug06   4:44 /usr/sbin/clamd --foreground=true
+avahi        471  0.0  0.0   8344   328 ?        S    Aug06   0:00 avahi-daemon: chroot helper
+root         507  0.0  0.1 313740 10700 ?        Ssl  Aug06   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         559  0.0  0.0      0     0 ?        I<   Aug06   0:00 [cryptd]
+root         584  0.0  0.0      0     0 ?        I<   Aug06   0:00 [nfit]
+clamav       796  0.0  0.1 135536 15004 ?        Ss   Aug06   0:12 /usr/bin/freshclam -d --foreground=true
+nobody       808  0.0  0.0   9772  6244 ?        Ss   Aug06   0:08 /usr/sbin/openvpn --status /run/openvpn-server/status-server.log --status-version 2 --suppress-timestamps --config server.conf
+root         815  0.0  0.0   9828  6168 ?        Ss   Aug06   0:13 /usr/sbin/openvpn --daemon ovpn-server --status /run/openvpn/server.status 10 --cd /etc/openvpn --script-security 2 --config /etc/openvpn/server.conf --writepid /run/openvpn/server.pid
+root         838  0.0  0.0  15632  4420 ?        S    Aug06   0:00 /usr/sbin/xrdp-sesman
+root         839  0.0  0.0 239784  7884 ?        Ssl  Aug06   0:00 /usr/sbin/gdm3
+root         849  0.0  0.1 166936  8400 ?        Sl   Aug06   0:00 gdm-session-worker [pam/gdm-launch-environment]
+xrdp         856  0.0  0.0  13364  2224 ?        S    Aug06   2:47 /usr/sbin/xrdp
+root         876  0.0  0.0  88996  3980 ?        Ss   Aug06   0:51 /opt/axigen/bin/axigen --max-respawns 3 -W /var/opt/axigen
+axigen       877  0.0  2.6 1373980 215320 ?      SNl  Aug06  12:43 /opt/axigen/bin/axigen --max-respawns 3 -W /var/opt/axigen
+gdm          886  0.0  0.1  18560  9396 ?        Ss   Aug06   0:00 /lib/systemd/systemd --user
+gdm          887  0.0  0.0 104236  4080 ?        S    Aug06   0:00 (sd-pam)
+gdm          899  0.0  0.1  22860 13776 ?        Ss   Aug06   0:01 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+gdm          900  0.0  0.1 805072 13048 ?        Ssl  Aug06   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gdm          901  0.0  0.0 162000  5164 tty1     Ssl+ Aug06   0:00 /usr/lib/gdm3/gdm-wayland-session dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          903  0.0  0.0   7108  3548 ?        Ss   Aug06   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gdm          906  0.0  0.0   5292   940 tty1     S+   Aug06   0:00 dbus-run-session -- gnome-session --autostart /usr/share/gdm/greeter/autostart
+gdm          908  0.0  0.0   7660  4092 tty1     S+   Aug06   0:00 dbus-daemon --nofork --print-address 4 --session
+gdm          909  0.0  0.1 557848 13140 tty1     Sl+  Aug06   0:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+rtkit        911  0.0  0.0 152932  2696 ?        SNsl Aug06   0:12 /usr/libexec/rtkit-daemon
+gdm          939  0.0  2.2 3804224 182408 tty1   Sl+  Aug06   5:44 /usr/bin/gnome-shell
+axigen       953  0.0  0.1 113008  9684 ?        Sl   Aug06   0:19 axigen-tnef
+gdm         1042  0.0  0.0 305340  6608 tty1     Sl+  Aug06   0:00 /usr/libexec/at-spi-bus-launcher
+gdm         1048  0.0  0.0   7108  3624 tty1     S+   Aug06   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+gdm         1087  0.0  0.5 736548 46588 tty1     Sl+  Aug06   0:00 /usr/bin/Xwayland :1024 -rootless -noreset -accessx -core -auth /run/user/118/.mutter-Xwaylandauth.FZPK70 -listen 4 -listen 5 -displayfd 6 -listen 7
+root        1167  0.0  0.1 252356  9620 ?        Ssl  Aug06   0:00 /usr/lib/upower/upowerd
+gdm         1188  0.0  0.0 162764  6808 tty1     Sl+  Aug06   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         1189  0.0  0.3 2598780 25060 tty1    Sl+  Aug06   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gdm         1192  0.0  0.2 413856 22248 tty1     Sl+  Aug06   0:05 /usr/libexec/gsd-color
+gdm         1194  0.0  0.1 248524 10144 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-print-notifications
+gdm         1197  0.0  0.0 309972  6384 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-a11y-settings
+gdm         1201  0.0  0.2 339640 21840 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-power
+gdm         1206  0.0  0.2 894344 22600 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-media-keys
+gdm         1207  0.0  0.0 457400  5924 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-rfkill
+gdm         1208  0.0  0.2 338712 21368 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-keyboard
+gdm         1211  0.0  0.2 338472 20976 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-wacom
+gdm         1212  0.0  0.0 312036  7348 tty1     Sl+  Aug06   0:13 /usr/libexec/gsd-housekeeping
+gdm         1216  0.0  0.1 319668  8784 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-sound
+gdm         1222  0.0  0.1 373936 15228 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-datetime
+gdm         1228  0.0  0.1 315472  9620 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-smartcard
+gdm         1236  0.0  0.0 235808  5820 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-screensaver-proxy
+gdm         1241  0.0  0.1 464964  9216 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-sharing
+gdm         1266  0.0  0.1 342488 14024 tty1     Sl+  Aug06   0:00 /usr/libexec/gsd-printer
+colord      1296  0.0  0.1 246468 13600 ?        Ssl  Aug06   0:00 /usr/libexec/colord
+gdm         1325  0.0  0.0 384900  8148 tty1     Sl   Aug06   0:00 ibus-daemon --panel disable -r --xim
+gdm         1331  0.0  0.0 236824  7024 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-dconf
+gdm         1335  0.0  0.6 904292 52224 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         1339  0.0  0.0 236672  7100 tty1     Sl+  Aug06   0:00 /usr/libexec/ibus-portal
+gdm         1343  0.0  0.0 162996  6880 tty1     Sl   Aug06   0:00 /usr/libexec/ibus-engine-simple
+postgres  164724  0.0  0.3 218604 27180 ?        Ss   Aug14   0:06 /usr/lib/postgresql/12/bin/postgres -D /var/lib/postgresql/12/main -c config_file=/etc/postgresql/12/main/postgresql.conf
+postgres  164726  0.0  0.1 218728  8180 ?        Ss   Aug14   0:00 postgres: 12/main: checkpointer   
+postgres  164727  0.0  0.0 218604  6172 ?        Ss   Aug14   0:07 postgres: 12/main: background writer   
+postgres  164728  0.0  0.1 218604 10308 ?        Ss   Aug14   0:07 postgres: 12/main: walwriter   
+postgres  164729  0.0  0.1 219140  8844 ?        Ss   Aug14   0:03 postgres: 12/main: autovacuum launcher   
+postgres  164730  0.0  0.0  72968  5052 ?        Ss   Aug14   0:03 postgres: 12/main: stats collector   
+postgres  164731  0.0  0.0 219032  6864 ?        Ss   Aug14   0:00 postgres: 12/main: logical replication launcher   
+root      165203  0.0  0.0  12176  6756 ?        Ss   Aug14   0:08 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root      172855  0.0  0.0      0     0 ?        I<   Aug14   0:00 [xfsalloc]
+root      172856  0.0  0.0      0     0 ?        I<   Aug14   0:00 [xfs_mru_cache]
+root      172859  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsIO]
+root      172860  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsCommit]
+root      172861  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsCommit]
+root      172862  0.0  0.0      0     0 ?        S    Aug14   0:00 [jfsSync]
+root      348521  0.0  0.1  28856  8312 ?        Ss   00:00   0:00 /usr/sbin/cupsd -l
+root      348523  0.0  0.1 179124 13160 ?        Ssl  00:00   0:00 /usr/sbin/cups-browsed
+root      351690  0.0  0.0      0     0 ?        I    08:14   0:00 [kworker/u4:2-events_power_efficient]
+root      351866  0.0  0.0      0     0 ?        I    08:39   0:00 [kworker/1:0-events]
+root      351994  0.0  0.1  13992  9000 ?        Ss   08:39   0:00 sshd: eman [priv]
+eman      352201  0.0  0.1  18564  9736 ?        Ss   08:41   0:00 /lib/systemd/systemd --user
+root      352202  0.0  0.1  13980  9096 ?        Ss   08:41   0:00 sshd: eman [priv]
+eman      352206  0.0  0.0 169980  4580 ?        S    08:41   0:00 (sd-pam)
+eman      352214  0.0  0.1  22860 13656 ?        Ss   08:41   0:00 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+eman      352217  0.0  0.1 280692 13824 ?        Ssl  08:41   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+eman      352232  0.0  0.0  13992  6360 ?        S    08:41   0:00 sshd: eman@pts/0
+eman      352251  0.0  0.0  14112  6180 ?        S    08:41   0:00 sshd: eman@notty
+eman      352254  0.0  0.0   7108  4028 ?        Ss   08:41   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+eman      352255  0.0  0.0   5884  4372 ?        Ss   08:41   0:00 /usr/lib/openssh/sftp-server
+eman      352256  0.0  0.1  16084  8520 pts/0    Ss+  08:41   0:01 -zsh
+eman      352279  0.0  0.0  13900  3980 pts/0    S    08:41   0:00 -zsh
+eman      352286  0.0  0.0  15376  4776 pts/0    S    08:41   0:00 -zsh
+eman      352287  0.0  0.0  15360  3372 pts/0    S    08:41   0:00 -zsh
+eman      352289  0.0  0.0   2844     4 pts/0    Sl   08:41   0:00 /home/eman/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.3.1 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 4
+root      352901  0.0  0.0      0     0 ?        I    08:46   0:00 [kworker/u4:1-events_power_efficient]
+root      352977  0.0  0.0      0     0 ?        I    08:49   0:00 [kworker/1:2-events]
+root      353000  0.0  0.0      0     0 ?        I    08:50   0:00 [kworker/1:3-events]
+root      353067  0.0  0.0      0     0 ?        I    08:51   0:00 [kworker/0:2-events]
+root      371395  0.0  0.0      0     0 ?        I    08:59   0:00 [kworker/0:0-events]
+root      371416  0.0  0.0      0     0 ?        I    08:59   0:00 [kworker/1:1-cgroup_destroy]
+root      371450  0.0  0.0      0     0 ?        I    09:00   0:00 [kworker/0:3-events]
+root      371713  0.0  0.0      0     0 ?        I    09:02   0:00 [kworker/1:4-mm_percpu_wq]
+root      371802  1.0  0.1  13976  9116 ?        Ss   09:07   0:00 sshd: pppppp [priv]
+root      371805  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371806  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371807  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371808  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371809  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371810  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371811  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371812  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371813  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371814  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371815  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371816  1.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371817  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371818  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371819  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371820  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371821  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+pppppp    371822  5.0  0.1  18436  9844 ?        Ss   09:07   0:00 /lib/systemd/systemd --user
+pppppp    371823  0.0  0.0 170124  4624 ?        S    09:07   0:00 (sd-pam)
+root      371826  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371828  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+root      371829  0.0  0.0  23436  4948 ?        S    09:07   0:00 /lib/systemd/systemd-udevd
+pppppp    371831  5.0  0.1  22860 13700 ?        Ss   09:07   0:00 /usr/bin/python3 /usr/bin/powerline-daemon --foreground
+pppppp    371832  3.0  0.1 280684 14212 ?        Ssl  09:07   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+pppppp    371851  0.0  0.0  14112  6140 ?        S    09:07   0:00 sshd: pppppp@notty
+pppppp    371855  0.0  0.0   7108  3976 ?        Ss   09:07   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+pppppp    371859  0.0  0.0  11772  3192 ?        Rs   09:07   0:00 ps aux
+
