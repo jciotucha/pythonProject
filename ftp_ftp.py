@@ -1,4 +1,3 @@
-import ftplib
 from ftplib import FTP
 
 filename = 'lista.txt'
