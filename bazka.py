@@ -1,6 +1,6 @@
 import sqlite3
 
-FILE = 'C:/Users/ciotuja1/PycharmProjects/pythonProject/dane2.txt'
+# FILE = 'C:/Users/ciotuja1/PycharmProjects/pythonProject/dane2.txt'
 # con = sqlite3.connect('machines.db')
 # cur = con.cursor()
 # con.execute("""CREATE TABLE chassis
