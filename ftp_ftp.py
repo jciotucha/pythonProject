@@ -6,11 +6,11 @@ filename = 'lista.txt'
 # username = 'pppppp'
 # password = 'pppppp'
 host = "ftp.uni-kl.de"
-ftp = FTP(host)   # connect to host, default port
+ftp = FTP(host)  # connect to host, default port
 # ftp.connect(username, password)
-ftp.login()               # user anonymous, passwd anonymous@
+ftp.login()  # user anonymous, passwd anonymous@
 
-ftp.retrlines('LIST')     # list directory contents
+ftp.retrlines('LIST')  # list directory contents
 respMessage = ftp.getwelcome()
 getFile = ftp, 'robots.txt'
 print(respMessage)
