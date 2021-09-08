@@ -1,23 +1,23 @@
-*A:war_d_bro1>config>service# /show chassis
+*A:war_d_bro1>config>service# /show chassis 
 ===============================================================================
 System Information
 ===============================================================================
-Name                              : war_d_bro1
-Type                              : 7250 IXR-s
-Chassis Topology                  : Standalone
-Location                          : WARSZAWA/P32, 01-716, WARSZAWA, UL.
-WLADYSLAWA BRONIEWSKIEGO 35
-Coordinates                       : (Not Specified)
-CLLI code                         :
-Number of slots                   : 2
-Oper number of slots              : 2
-Num of faceplate ports/connectors : 54
-Num of physical ports             : 50
-Critical LED state                : Red
-Major LED state                   : Off
-Minor LED state                   : Off
-Over Temperature state            : OK
-Base MAC address                  : fc:1c:a1:34:ff:96
+  Name                              : war_d_bro1
+  Type                              : 7250 IXR-s
+  Chassis Topology                  : Standalone
+  Location                          : WARSZAWA/P32, 01-716, WARSZAWA, UL.
+                                      WLADYSLAWA BRONIEWSKIEGO 35
+  Coordinates                       : (Not Specified)
+  CLLI code                         :           
+  Number of slots                   : 2
+  Oper number of slots              : 2
+  Num of faceplate ports/connectors : 54
+  Num of physical ports             : 50
+  Critical LED state                : Red
+  Major LED state                   : Off
+  Minor LED state                   : Off
+  Over Temperature state            : OK
+  Base MAC address                  : fc:1c:a1:34:ff:96
 
 ===============================================================================
 Chassis Summary
