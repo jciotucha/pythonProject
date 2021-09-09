@@ -21,6 +21,7 @@ cur = con.cursor()
 
 for row in cur.execute('SELECT * FROM machines ORDER BY id'):
         print(row)
+
 # con.commit()
 
 # with open(FILE) as file:
