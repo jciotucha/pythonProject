@@ -69,7 +69,6 @@ for line in open(FILE):
 
         print(line)
 
-
 # con = sqlite3.connect('machines.db')
 # cur = con.cursor()
 # con.execute("""CREATE TABLE chassis
