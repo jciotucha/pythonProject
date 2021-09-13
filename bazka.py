@@ -7,67 +7,87 @@ for line in open(FILE):
 
     for match in re.finditer(re.compile("Name"), line):
 
-        print(line.strip())
+        name = line.strip(':').split()
+        # print(name[2])
+        idx = name.index(':')
+        print(name[idx+1])
 
     for match in re.finditer(re.compile("Type"), line):
 
-        print(line.strip())
+        typ = line.strip('\t').split().pop(2).strip(' ')
+        print(typ)
 
     for match in re.finditer(re.compile("Chassis Topology"), line):
 
-        print(line.strip())
+        chassis = line.strip('\t').strip(' ').split()
+        idx = chassis.index(':')
+        print(chassis[idx + 1])
+        # print(chassis)
 
     for match in re.finditer(re.compile("Location"), line):
 
-        print(line.strip())
+        # print(line.strip('  \n'))
+
+        location = line.strip(':').split()
+        # print(location[2])
+        idx = location.index(':')
+        # print(location[idx + 1])
 
     for match in re.finditer(re.compile("                               "), line):
+        typ = line.strip('\n').split()
+        adres = location + typ
+        idx2 = adres.index(':')
+        adres3 = adres[idx2+1:]
+        for i in range(len(adres3)):
+            print(adres3[i], end=' ')
 
-        print(line.rstrip())
 
     for match in re.finditer(re.compile("Coordinates"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("CLLI code"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Number of slots"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Oper number of slots"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("faceplate ports"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("physical ports"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Critical LED"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Major LED"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Minor LED"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Over Temperature"), line):
-
-        print(line.strip())
-
-    for match in re.finditer(re.compile("Base MAC address"), line):
-
-        print(line.strip())
+        coor = line.strip('\t').split()
+        idx = coor.index(':')
+        print('\n')
+        coor2 = coor[idx+1:]
+        print(coor2)
+    #
+    # for match in re.finditer(re.compile("CLLI code"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Number of slots"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Oper number of slots"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("faceplate ports"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("physical ports"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Critical LED"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Major LED"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Minor LED"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Over Temperature"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
+    #
+    # for match in re.finditer(re.compile("Base MAC address"), line):
+    #     type = line.strip('\t').split().pop(2)
+    #     print(type)
 
 # con = sqlite3.connect('machines.db')
 # cur = con.cursor()
