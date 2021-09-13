@@ -52,7 +52,7 @@ for line in open(FILE):
     # for match in re.finditer(re.compile("CLLI code"), line):
     #     type = line.strip('\t').split().pop(2)
     #     print(type)
-    #
+
     # for match in re.finditer(re.compile("Number of slots"), line):
     #     type = line.strip('\t').split().pop(2)
     #     print(type)
