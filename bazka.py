@@ -48,7 +48,7 @@ for line in open(FILE):
         print('\n')
         coor2 = coor[idx+1:]
         print(coor2)
-    #
+
     # for match in re.finditer(re.compile("CLLI code"), line):
     #     type = line.strip('\t').split().pop(2)
     #     print(type)
