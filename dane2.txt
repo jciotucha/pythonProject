@@ -8,7 +8,7 @@ System Information
   Location                          : WARSZAWA/P32, 01-716, WARSZAWA, UL.
                                       WLADYSLAWA BRONIEWSKIEGO 35
   Coordinates                       : (Not Specified)
-  CLLI code                         :           
+  CLLI code                         : 455           
   Number of slots                   : 2
   Oper number of slots              : 2
   Num of faceplate ports/connectors : 54
